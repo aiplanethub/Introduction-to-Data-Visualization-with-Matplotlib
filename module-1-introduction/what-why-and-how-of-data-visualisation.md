@@ -15,7 +15,7 @@ It communicates relationships of the data with images.
 
 ![](https://lh4.googleusercontent.com/degKsz78GXgkcXbS6ruggxOJqDFX-Yv887hpV3wD7DhnVmIJ49oJkTxBcWcfH4uzu0v90CpNsOGhsTyFaB9xME_ITmHMbJjTpKsT7fjmDisiID2Pnu-AtH6U2GwVFHaLaBvFhDWPSAY=s0)
 
-### **Why Data Visualisation?** 
+### **Why Data Visualisation?**
 
 A visual summary of information makes it easier to identify patterns, trends and outliers than looking through thousands of rows on a spreadsheet. 
 
@@ -23,7 +23,7 @@ It’s the way the human brain works.
 
 Since the purpose of data analysis is to gain insights, data is much more valuable when it is visualized. 
 
-### _**“A picture is worth a thousand words”**_
+### “A picture is worth a thousand words”
 
 Our eyes are drawn to colors and patterns. We can quickly identify red from blue, square from circle. Our culture is visual, including everything from art and advertisements to TV and movies
 
