@@ -27,14 +27,9 @@ Since the purpose of data analysis is to gain insights, data is much more valuab
 
 Our eyes are drawn to colors and patterns. We can quickly identify red from blue, square from circle. Our culture is visual, including everything from art and advertisements to TV and movies
 
-Data visualization is another form of visual art that grabs our interest and keeps our eyes on the message.   
-****
+Data visualization is another form of visual art that grabs our interest and keeps our eyes on the message. 
 
- **You’ve been surrounded by Data Visualisations all this while!**
-
-\*\*\*\*
-
-![](https://lh3.googleusercontent.com/sFuqOMRgXdxPtyBWJioX8Ea5tInEYf6MOvmi3qgAeWF-KM0pGGdOCWrPU7ouhCyZqr_D4ac3lUsG58YRGbKsd78q1gsRVM9ydT7e4E9HZKCLCHRPgYwnxqvDN3xmiCDkH2sq3ae4kPA=s0)
+**You’ve been surrounded by Data Visualisations all this while!**
 
 ### **Google Map Traffic visualization**
 
