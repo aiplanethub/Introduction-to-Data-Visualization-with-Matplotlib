@@ -9,7 +9,7 @@
 
 ### What is Data Visualisation?
 
-Data visualization is the representation of data or information in a graph, chart, or other visual format.
+Data Visualization is the representation of data or information in a graph, chart, or other visual format.
 
 It communicates relationships of the data with images. 
 
