@@ -12,7 +12,7 @@ In this 10-day bootcamp, there will be:
 
 ### Learning Modules:
 
-* The learning modules will be released at 7:00 PM CET/ 10:30 PM IST as per the schedule mentioned [here](https://docs.google.com/document/d/1RXadj1pHPcDYB3V9nLx895oBloH41Amyi9jTBgWKlIs/edit).
+* The learning modules will be released at 7:00 PM CET/ 10:30 PM IST as per the schedule mentioned [here](https://docs.google.com/document/d/1p7Ov4GFGdPgYIWn7zppLAnM0pwj7O1SU9kg4zzh_lGw/edit).
 * It will be in offline format, so you can learn through it at your own pace and time.
 * If you face any doubts while learning, feel free to drop a message on \#pandas-mini-bootcamp channel on [Slack](https://join.slack.com/t/dphibootcamp/shared_invite/zt-ndk1sg93-31J2Fnzn~pLkbqMTCJrfaw).
 
