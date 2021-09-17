@@ -1,4 +1,4 @@
-# Initial page
+# Overview
 
 Welcome to Mini Bootcamp: Data Visualization with Matplotlib :\)
 
