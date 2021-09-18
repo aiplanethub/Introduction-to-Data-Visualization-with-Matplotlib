@@ -1,7 +1,5 @@
 # Histogram
 
-
-
 ### What is **Histogram?** 
 
 A histogram is a graphical display of data using bars\(rectangles\) of different heights.
