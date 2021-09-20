@@ -12,4 +12,12 @@
     * [Histogram](module-2-matplotlib/basic-plots/histogram.md)
     * [Bar Plot](module-2-matplotlib/basic-plots/bar-plot.md)
     * [Pie Chart](module-2-matplotlib/basic-plots/pie-chart.md)
+* [Module 3: Pyplot Formatting](module-3-pyplot-formatting/README.md)
+  * [Plotting Consecutive Plots](module-3-pyplot-formatting/plotting-consecutive-plots.md)
+  * [Making The Plots Descriptive](module-3-pyplot-formatting/making-the-plots-descriptive.md)
+  * [Formatting The Plots](module-3-pyplot-formatting/formatting-the-plots.md)
+  * [Changing Plot Size](module-3-pyplot-formatting/changing-plot-size.md)
+  * [Multiple Plots](module-3-pyplot-formatting/multiple-plots.md)
+* [Practice Quiz](practice-quiz.md)
+* [Additional Resources: Data Storytelling through Data Visualization](additional-resources-data-storytelling-through-data-visualization.md)
 
