@@ -1,7 +1,5 @@
 # Final Assignment
 
-
-
 ### Instructions and Guidelines for Final Assignments
 
 ### Graded Quiz:
