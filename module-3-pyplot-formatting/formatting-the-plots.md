@@ -9,10 +9,14 @@
 
 ### Formatting Plots
 
-* The first adjustment you might wish to make to a plot is to control the line colors and styles. 
-* Look at all the above graphs you’ve created till now. What is the color and style of the plots where it is not explicitly specified?  
-* **All blue solid lines. Blue solid line is thus the default formatting style.** 
-* The plt.plot\(\) function takes additional arguments that can be used to specify the formatting. 
+* The first adjustment you might wish to make to a plot is to control the line colors and styles.\
+
+* Look at all the above graphs you’ve created till now. What is the color and style of the plots where it is not explicitly specified? \
+
+* **All blue solid lines. Blue solid line is thus the default formatting style.**\
+  ****
+* The plt.plot() function takes additional arguments that can be used to specify the formatting.\
+
 * You've already specified the colour of a few plots before using the 'color' argument. Colours can be provided in a number of ways apart from that.
 
 ### 1. Changing Colours
@@ -35,7 +39,7 @@ So you've plotted lines that pass through the points in the dataset. But we can'
 
 Adding markers to a line plot can be a useful way to distinguish multiple lines or to highlight particular data points. 
 
-![](https://lh6.googleusercontent.com/lplrE0fE5E9zXzILnWZDg-Lz5yAEoSDYZqH6RIjN0u7w-nE_KisDcaihsHgDzLaFDcKRQSkbc4ozo0-1V8CMoiujyFSz6cKt-_PZu-D_rZoi9ebMXdGKnSXs9I9kSi2DqVSJDgqZ6uA=s0)
+![](https://lh6.googleusercontent.com/lplrE0fE5E9zXzILnWZDg-Lz5yAEoSDYZqH6RIjN0u7w-nE_KisDcaihsHgDzLaFDcKRQSkbc4ozo0-1V8CMoiujyFSz6cKt-\_PZu-D_rZoi9ebMXdGKnSXs9I9kSi2DqVSJDgqZ6uA=s0)
 
 
 
@@ -43,15 +47,15 @@ Adding markers to a line plot can be a useful way to distinguish multiple lines 
 
 Let's plot a red dashed line with triangular markers!
 
-![](https://lh4.googleusercontent.com/2uMAc9j6wVWHV1Kcv-43fQV_btc3SOc6oEWqIxSZVrEA05ToRrcjNMKVv6B5d25_8M-O14eIHYciziD5rDq-9Ixaep8wT9E7Z1wAwXQ4xABPde0PcFIoLySxLcmz0Zr0kvUVf-e-eZk=s0)
+![](https://lh4.googleusercontent.com/2uMAc9j6wVWHV1Kcv-43fQV_btc3SOc6oEWqIxSZVrEA05ToRrcjNMKVv6B5d25\_8M-O14eIHYciziD5rDq-9Ixaep8wT9E7Z1wAwXQ4xABPde0PcFIoLySxLcmz0Zr0kvUVf-e-eZk=s0)
 
 ### Shortcut for above
 
 For every x, y pair of arguments, there is an optional third argument which is the format string that indicates the color and line type of the plot. The letters and symbols of the format string are from MATLAB, and you concatenate a color string with a line style string. The default format string is 'b-', which is a solid blue line.
 
-These linestyle and color codes can be combined into a single non-keyword argument to the plt.plot\(\) function:
+These linestyle and color codes can be combined into a single non-keyword argument to the plt.plot() function:
 
-![](https://lh6.googleusercontent.com/blLNAzk3_1WjGxM5NsC_EaBtvn6L8LMM2q1eYSRutfErYePemQ2TyiSlHpI9CIizJb7lOJsN_VlLq9NT0M8xypwVC5JPZSgSLY3ys_0PAvKFKTzMfaMumvfie-0DD8nYFjnQrakgFWE=s0)
+![](https://lh6.googleusercontent.com/blLNAzk3\_1WjGxM5NsC_EaBtvn6L8LMM2q1eYSRutfErYePemQ2TyiSlHpI9CIizJb7lOJsN_VlLq9NT0M8xypwVC5JPZSgSLY3ys\_0PAvKFKTzMfaMumvfie-0DD8nYFjnQrakgFWE=s0)
 
 ### Scatter Plot with plot function
 
@@ -61,11 +65,10 @@ It turns out that the plot function can produce scatter plots as well. Just don'
 
 ### More examples
 
-![](https://lh3.googleusercontent.com/ritjOjYLYQ-j4FpR6HlYt0Sr0AUyLtqrSXMD_E_w-jVki8AQfHeely-mBMlO2Oa_2lrxKhyFJ-4sTM-KRdIecs7bc7GGhVtFKKqWigfP_92nGrLH5iJWvaR7EP1oXnMWOIF8Ey8gJtA=s0)
+![](https://lh3.googleusercontent.com/ritjOjYLYQ-j4FpR6HlYt0Sr0AUyLtqrSXMD_E_w-jVki8AQfHeely-mBMlO2Oa\_2lrxKhyFJ-4sTM-KRdIecs7bc7GGhVtFKKqWigfP\_92nGrLH5iJWvaR7EP1oXnMWOIF8Ey8gJtA=s0)
 
 There are plenty of other options. You can try the following:
 
-![](https://lh4.googleusercontent.com/ri8sw5I5Lv7W1tqL3h0knKRXxQqlrYuVH2T28uHjCJnkpE24tUznVVl9_ad9XhBomjyqdLwOCT_JYe566i2IV72LKN8_7277RdULpr4TAZSCMd634NvRN3FYbZEacVlnx_06BaCvM-I=s0)
+![](https://lh4.googleusercontent.com/ri8sw5I5Lv7W1tqL3h0knKRXxQqlrYuVH2T28uHjCJnkpE24tUznVVl9\_ad9XhBomjyqdLwOCT_JYe566i2IV72LKN8\_7277RdULpr4TAZSCMd634NvRN3FYbZEacVlnx\_06BaCvM-I=s0)
 
-These single-character color codes reflect the standard abbreviations in the RGB \(Red/Green/Blue\) and CMYK \(Cyan/Magenta/Yellow/blacK\) color systems, commonly used for digital color graphics.
-
+These single-character color codes reflect the standard abbreviations in the RGB (Red/Green/Blue) and CMYK (Cyan/Magenta/Yellow/blacK) color systems, commonly used for digital color graphics.

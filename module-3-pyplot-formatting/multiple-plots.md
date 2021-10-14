@@ -2,14 +2,19 @@
 
 ### Multiple Plots in 1 Figure
 
-* We can make multiple graphics in one figure. This goes very well for comparing charts or for sharing data from several types of charts easily with a single image. 
-* The .subplot\(\) method is used to add multiple plots in one figure. It takes three arguments:
+* We can make multiple graphics in one figure. This goes very well for comparing charts or for sharing data from several types of charts easily with a single image.\
+
+* The .subplot() method is used to add multiple plots in one figure. It takes three arguments:
   * nrows: number of rows in the figure
   * ncols: number of columns in the figure
-  * index: index of the plot 
-* Let's see how variables are plotted with different row and column configurations in the figures. 
-* The function subplot creates a figure and a set of subplots. It is a wrapper function to make it convenient to create common layouts of subplots, including the enclosing figure object, in a single call. 
-* You can even give a Title to your subplots using the suptitle method! No, the 'p' is not a typing mistake. 
+  * index: index of the plot\
+
+* Let's see how variables are plotted with different row and column configurations in the figures.\
+
+* The function subplot creates a figure and a set of subplots. It is a wrapper function to make it convenient to create common layouts of subplots, including the enclosing figure object, in a single call.\
+
+* You can even give a Title to your subplots using the suptitle method! No, the 'p' is not a typing mistake.\
+
 * The subplot function returns a figure and an Axes object or an array of Axes objects.
 
 ### Changing Plot Size
@@ -20,7 +25,7 @@ If we call the subplot function without any parameters - like we do in the follo
 
 ### 1 row and 2 columns - Method 1
 
-![](https://lh3.googleusercontent.com/SlhKyw_CNDzPZ1dJB5_BwWTHltOhOwhAl8q2qj6DL0tK7FrP1XVaafas7SGmgaOgu7bfYZBCoa2NyWNA6IYmED1FJVYuYTqFE7mdzjTEsbcLgxe6K3FgVTaFu0SaeKr-QkR9up18N9Y=s0)
+![](https://lh3.googleusercontent.com/SlhKyw_CNDzPZ1dJB5\_BwWTHltOhOwhAl8q2qj6DL0tK7FrP1XVaafas7SGmgaOgu7bfYZBCoa2NyWNA6IYmED1FJVYuYTqFE7mdzjTEsbcLgxe6K3FgVTaFu0SaeKr-QkR9up18N9Y=s0)
 
 ### **1 row and 2 columns - Method 2**
 
@@ -28,8 +33,10 @@ If we call the subplot function without any parameters - like we do in the follo
 
 ### Overlapping Values
 
-* PS. Aren't those overlapping axis values annoying? Matplotlib has a solution for that too.  
-* Simply put sharey=True inside the subplot function. The two subplots will share the y axis values then.  
+* PS. Aren't those overlapping axis values annoying? Matplotlib has a solution for that too. \
+
+* Simply put sharey=True inside the subplot function. The two subplots will share the y axis values then. \
+
 * Try it out!
 
 ### 2 rows and 1 column
@@ -42,5 +49,4 @@ If we call the subplot function without any parameters - like we do in the follo
 
 Think of this as a 2X2 grid. You can access the different positions of the axis and plot your graphs there as follows:
 
-![](https://lh3.googleusercontent.com/B7J5O2_wtFHiR_BSc3F6WX7TWT5BZykEkdmWPnVKOIBGduPEWdW4nmT7jaJmUHB1zwUrCAWLs29oNcJ6mJhb-4k_1h_5X1DNhRI9ExkgENCoIvG8qC9c9Qm51lJJzC1dTF3lqPqxDkg=s0)
-
+![](https://lh3.googleusercontent.com/B7J5O2\_wtFHiR_BSc3F6WX7TWT5BZykEkdmWPnVKOIBGduPEWdW4nmT7jaJmUHB1zwUrCAWLs29oNcJ6mJhb-4k\_1h\_5X1DNhRI9ExkgENCoIvG8qC9c9Qm51lJJzC1dTF3lqPqxDkg=s0)

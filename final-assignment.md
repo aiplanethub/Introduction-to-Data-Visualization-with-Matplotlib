@@ -15,10 +15,9 @@
 
 * Complete the tasks/questions mentioned in the assignment and upload your notebook. 
 * Your notebook will be reviewed by your peer learners and graded accordingly.
-* Link: [https://dphi.tech/business/candidate/assessment/0I58vNX1\_Os](https://dphi.tech/business/candidate/assessment/0I58vNX1_Os)
+* Link: [https://dphi.tech/business/candidate/assessment/0I58vNX1\_Os](https://dphi.tech/business/candidate/assessment/0I58vNX1\_Os)
 
 ### Eligibility Criteria for Certificate: 
 
-* Must submit both the assignments under the **submission deadline -** ~~**27th**~~ **28th September, 2021 7:00 PM CET/10:30 PM IST**
+* Must submit both the assignments under the **submission deadline - **~~**27th**~~** 28th September, 2021 7:00 PM CET/10:30 PM IST**
 * **Your total score should be minimum 60% of the overall score of both the assignments.**
-
