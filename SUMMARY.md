@@ -18,6 +18,5 @@
   * [Formatting The Plots](module-3-pyplot-formatting/formatting-the-plots.md)
   * [Changing Plot Size](module-3-pyplot-formatting/changing-plot-size.md)
   * [Multiple Plots](module-3-pyplot-formatting/multiple-plots.md)
-* [Practice Quiz](practice-quiz.md)
 * [Final Assignment](final-assignment.md)
-* [Additional Resources: Data Storytelling through Data Visualization](additional-resources-data-storytelling-through-data-visualization.md)
+* [Optional (Additional Practice Resources)](additional-resources-data-storytelling-through-data-visualization.md)

@@ -1,15 +1,8 @@
-# Additional Resources: Data Storytelling through Data Visualization
+# Optional (Additional Practice Resources)
 
-### Learning Objectives:
+* Practice Quiz: [https://app.skillspace.ai/candidate/assessment/v0zdjdlc\_2g](https://app.skillspace.ai/candidate/assessment/v0zdjdlc\_2g)
 
-* What is Data, Visualisation & Story?
-* What & why Data Storytelling?
-* Designing a Data Story
-* Hands on session using a dataset
-
-### Learning Resource:
+### Data Storytelling:
 
 {% embed url="https://youtu.be/q-UtJSuOXJc" %}
-
-
 
